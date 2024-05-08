@@ -1,0 +1,7 @@
+Hello Guys 
+This are Git Commands
+cd
+pwd
+touch
+cat
+
